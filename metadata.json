@@ -1,0 +1,6 @@
+{
+  "name": "Watchy Pro - Next-Gen Cinema & HLS Live Streaming",
+  "description": "Ultra-modern, high-definition streaming platform with HLS adaptive bitrate, multi-player engine, live channels, real-time dynamics, advanced transcoding, offline caching, and premium multi-profile auth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
